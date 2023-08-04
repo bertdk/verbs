@@ -58,6 +58,14 @@
 
 **Example**: Yo habl**o** español. (I speak Spanish.)
 
+## Present Progressive Tense (Presente Progresivo)
+
+| Pronoun | -ar Verbs              | -er Verbs              | -ir Verbs              |
+| ------- | ---------------------- | ---------------------- | ---------------------- |
+| yo      | **estoy** habl**ando** | **estoy** com**iendo** | **estoy** viv**iendo** |
+
+**Example**: Yo **estoy** habl**ando** con mi hermano. (I am speaking with my brother.)
+
 ## Imperative Mood (imperativo)
 
 | Pronoun             | -ar Verbs    | -er Verbs   | -ir Verbs   |

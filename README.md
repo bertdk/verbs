@@ -15,10 +15,6 @@
 
 **Example**: Dibujar es divertido. (Drawing is fun.)
 
-## Near Future Tense (futuro próximo)
-
-**Example**: Mañana voy a visitar muchos museos. (Tomorrow I am going to visit a lot of museums.)
-
 ## Imperfect Tense (pretérito imperfecto)
 
 | Pronoun             | -ar Verbs      | -er Verbs    | -ir Verbs    |
@@ -81,11 +77,39 @@
 
 ## Indicative Present Perfect (El Pretérito Perfecto)
 
-| Pronoun     | -ar Verbs     | -er Verbs    | -ir Verbs    |
-| ----------- | ------------- | ------------ | ------------ |
-| yo          | he habl**ado**| he com**ido**| he viv**ido**|
-| tú          | has habl**ado**| has com**ido**| has viv**ido**|
-| él/ella     | ha habl**ado**| ha com**ido**| ha viv**ido**|
-| nosotros/as | hemos habl**ado**| hemos com**ido**| hemos viv**ido**|
-| vosotros/as | habéis habl**ado**| habéis com**ido**| habéis viv**ido**|
-| ellos/ellas | han habl**ado**| han com**ido**| han viv**ido**|
+| Pronoun     | -ar Verbs              | -er Verbs             | -ir Verbs             |
+| ----------- | ---------------------- | --------------------- | --------------------- |
+| yo          | **he** habl**ado**     | **he** com**ido**     | **he** viv**ido**     |
+| tú          | **has** habl**ado**    | **has** com**ido**    | **has** viv**ido**    |
+| él/ella     | **ha** habl**ado**     | **ha** com**ido**     | **ha** viv**ido**     |
+| nosotros/as | **hemos** habl**ado**  | **hemos** com**ido**  | **hemos** viv**ido**  |
+| vosotros/as | **habéis** habl**ado** | **habéis** com**ido** | **habéis** viv**ido** |
+| ellos/ellas | **han** habl**ado**    | **han** com**ido**    | **han** viv**ido**    |
+
+**Example**: Yo he hablado con mi amigo esta mañana. (I have spoken with my friend this morning.)
+
+## Near Future Tense (futuro próximo)
+
+| Pronoun     | -ar Verbs          | -er Verbs         | -ir Verbs         |
+| ----------- | ------------------ | ----------------- | ----------------- |
+| yo          | **voy** a hablar   | **voy** a comer   | **voy** a vivir   |
+| tú          | **vas** a hablar   | **vas** a comer   | **vas** a vivir   |
+| él/ella     | **va** a hablar    | **va** a comer    | **va** a vivir    |
+| nosotros/as | **vamos** a hablar | **vamos** a comer | **vamos** a vivir |
+| vosotros/as | **vias** a hablar  | **vias** a comer  | **vias** a vivir  |
+| ellos/ellas | **van** a hablar   | **van** a comer   | **van** a vivir   |
+
+**Example**: Mañana voy a visitar muchos museos. (Tomorrow I am going to visit a lot of museums.)
+
+## Indicative Future Tense (El Futuro Simple)
+
+| Pronoun     | -ar Verbs      | -er Verbs     | -ir Verbs     |
+| ----------- | -------------- | ------------- | ------------- |
+| yo          | hablar**é**    | comer**é**    | vivir**é**    |
+| tú          | hablar**ás**   | comer**ás**   | vivir**ás**   |
+| él/ella     | hablar**á**    | comer**á**    | vivir**á**    |
+| nosotros/as | hablar**emos** | comer**emos** | vivir**emos** |
+| vosotros/as | hablar**éis**  | comer**éis**  | vivir**éis**  |
+| ellos/ellas | hablar**án**   | comer**án**   | vivir**án**   |
+
+**Example**: El año que viene hablar**é** con mi abuela. (Next year, I will speak with my grandmother.)

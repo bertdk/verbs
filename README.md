@@ -78,3 +78,14 @@
 | ellos/ellas/ustedes | habl**en**   | com**an**   | viv**an**   |
 
 **Example**: ¡Habla más despacio! (Speak more slowly!)
+
+## Indicative Present Perfect (El Pretérito Perfecto)
+
+| Pronoun     | -ar Verbs     | -er Verbs    | -ir Verbs    |
+| ----------- | ------------- | ------------ | ------------ |
+| yo          | he habl**ado**| he com**ido**| he viv**ido**|
+| tú          | has habl**ado**| has com**ido**| has viv**ido**|
+| él/ella     | ha habl**ado**| ha com**ido**| ha viv**ido**|
+| nosotros/as | hemos habl**ado**| hemos com**ido**| hemos viv**ido**|
+| vosotros/as | habéis habl**ado**| habéis com**ido**| habéis viv**ido**|
+| ellos/ellas | han habl**ado**| han com**ido**| han viv**ido**|

@@ -20,3 +20,14 @@ Morir -> muriendo
 Ir -> yendo
 Oír -> oyendo
 Traer -> trayendo
+
+## Future
+
+Tener -> tendré
+Poner -> pondré
+Salir -> saldré 
+Venir -> vendré 
+Decir -> diré 
+Hacer -> haré 
+Saber -> sabré 
+Poder -> podré 

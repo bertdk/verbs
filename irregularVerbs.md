@@ -21,13 +21,13 @@ Ir -> yendo
 Oír -> oyendo
 Traer -> trayendo
 
-## Future
+## Indicative Future Tense (El Futuro Simple)
 
 Tener -> tendré
 Poner -> pondré
-Salir -> saldré 
-Venir -> vendré 
-Decir -> diré 
-Hacer -> haré 
-Saber -> sabré 
-Poder -> podré 
+Salir -> saldré
+Venir -> vendré
+Decir -> diré
+Hacer -> haré
+Saber -> sabré
+Poder -> podré

@@ -113,7 +113,4 @@
 | ellos/ellas | hablar**án**   | comer**án**   | vivir**án**   |
 
 **Example**: El año que viene hablar**é** con mi abuela. (Next year, I will speak with my grandmother.)
-
-
-
-Yo no sé qué comeremos mañana 
+**Example**: Yo no sé qué comer**emos** mañana. (I don't know what we will eat tomorrow.)
